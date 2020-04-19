@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Nativescript-Vue-Experiment
+# Nativescript Vue Experiment
 
 Experimental project with {N}ativescript-Vue to experiment with the framework and its plugins
 
@@ -22,7 +21,3 @@ tns debug <platform>
 tns build <platform> --env.production
 
 ```
-=======
-# nativescript-vue-experiment
-Experimental project with {N}ativescript-Vue to experiment with the framework and its plugins
->>>>>>> d0287d761195a73796def473271317be1ee7d98b
