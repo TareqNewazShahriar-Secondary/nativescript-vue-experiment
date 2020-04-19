@@ -1,6 +1,6 @@
-# NativeScript-Vue Application
+# Nativescript-Vue-Experiment
 
-> A native application built with NativeScript-Vue
+Experimental project with {N}ativescript-Vue to experiment with the framework and its plugins
 
 ## Usage
 
